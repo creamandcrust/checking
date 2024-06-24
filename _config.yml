@@ -15,6 +15,9 @@ twitter_username: check
 facebook_username: check 
 youtube_username: youtube
 blog_url: homepage-url
+baseurl: /Creamandcrust.github.io
+url: https://Creamandcrust.github.io
+
 
 exclude:
   - _posts/

@@ -5,16 +5,16 @@ icon_img: assets/img/icon.webp
 name: "Cream and Crust"
 job: "Authentic mama's bakery"
 
-#phone_number: 0652341526
+phone_number: 0652341526
 address: Jerusalem, Israel
 email: cream.an.crust@gmail.com
 github_username: Creamandcrust.github.io
-#linkedin_username:  chack
-#instagram_username: check
-#twitter_username: check
-#facebook_username: check 
-#youtube_username: youtube
-#blog_url: homepage-url
+linkedin_username:  chack
+instagram_username: check
+twitter_username: check
+facebook_username: check 
+youtube_username: youtube
+blog_url: homepage-url
 
 exclude:
   - _posts/
